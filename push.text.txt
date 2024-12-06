@@ -2,4 +2,4 @@ cd C:\Users\tu349\Downloads\material-portfolio_free_1-1-0 // trỏ vào đườn
 git status // kiểm tra trạng thái dự án
 git clone https://github.com/AnhTuVNU/AnhTu.github.io-.git // remote đến my git
 cd AnhTu.github.io-
-AnhTu.github.io->git add . && git commit -m "Thêm tất cả các file mới vào repository" && git push origin main // cập nhật tất cả các file trong dự án	
+git add . && git commit -m "Thêm tất cả các file mới vào repository" && git push origin main // cập nhật tất cả các file trong dự án	
