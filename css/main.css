@@ -77,8 +77,8 @@ img {
 
 .welcome-card > .mdl-card__title {
   color: #fff;
-  height: 290px;
-  background: url("../img/cover.jpg") center/cover; }
+  height: 550px;
+  background: url("../img/1.jpg") center/cover; }
 
 .event-card {
   background: #3E4EB8; }
